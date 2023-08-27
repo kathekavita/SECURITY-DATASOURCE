@@ -1,0 +1,193 @@
+
+
+------------------- Neighbours of j=0 hop=0:------------------------
+ x=9 y=25 id=1  hop=1  
+ x=9 y=25 id=8  hop=1  
+ x=9 y=25 id=7  hop=1  
+ x=9 y=25 id=24  hop=1  
+
+------------------- Neighbours of j=1 hop=1:------------------------
+ x=17 y=1 id=2  hop=2  
+ x=17 y=1 id=9  hop=2  
+ x=17 y=1 id=0  hop=0  
+ x=17 y=1 id=25  hop=2  
+
+------------------- Neighbours of j=2 hop=2:------------------------
+ x=9 y=1 id=3  hop=3  
+ x=9 y=1 id=10  hop=3  
+ x=9 y=1 id=1  hop=1  
+ x=9 y=1 id=26  hop=3  
+
+------------------- Neighbours of j=3 hop=3:------------------------
+ x=17 y=17 id=4  hop=4  
+ x=17 y=17 id=11  hop=4  
+ x=17 y=17 id=2  hop=2  
+ x=17 y=17 id=27  hop=4  
+
+------------------- Neighbours of j=4 hop=4:------------------------
+ x=17 y=1 id=5  hop=3  
+ x=17 y=1 id=12  hop=5  
+ x=17 y=1 id=3  hop=3  
+ x=17 y=1 id=28  hop=5  
+
+------------------- Neighbours of j=5 hop=3:------------------------
+ x=9 y=9 id=6  hop=2  
+ x=9 y=9 id=13  hop=4  
+ x=9 y=9 id=4  hop=4  
+ x=9 y=9 id=29  hop=4  
+
+------------------- Neighbours of j=6 hop=2:------------------------
+ x=9 y=25 id=7  hop=1  
+ x=9 y=25 id=14  hop=3  
+ x=9 y=25 id=5  hop=3  
+ x=9 y=25 id=30  hop=3  
+
+------------------- Neighbours of j=7 hop=1:------------------------
+ x=9 y=25 id=0  hop=0  
+ x=9 y=25 id=15  hop=2  
+ x=9 y=25 id=6  hop=2  
+ x=9 y=25 id=31  hop=2  
+
+------------------- Neighbours of j=8 hop=1:------------------------
+ x=25 y=17 id=9  hop=2  
+ x=25 y=17 id=16  hop=2  
+ x=25 y=17 id=15  hop=2  
+ x=25 y=17 id=0  hop=0  
+
+------------------- Neighbours of j=9 hop=2:------------------------
+ x=25 y=1 id=10  hop=3  
+ x=25 y=1 id=8  hop=1  
+ x=25 y=1 id=17  hop=3  
+ x=25 y=1 id=1  hop=1  
+
+------------------- Neighbours of j=10 hop=3:------------------------
+ x=25 y=1 id=11  hop=4  
+ x=25 y=1 id=9  hop=2  
+ x=25 y=1 id=18  hop=4  
+ x=25 y=1 id=2  hop=2  
+
+------------------- Neighbours of j=11 hop=4:------------------------
+ x=17 y=9 id=12  hop=5  
+ x=17 y=9 id=10  hop=3  
+ x=17 y=9 id=19  hop=5  
+ x=17 y=9 id=3  hop=3  
+
+------------------- Neighbours of j=12 hop=5:------------------------
+ x=1 y=17 id=13  hop=4  
+ x=1 y=17 id=11  hop=4  
+ x=1 y=17 id=20  hop=6  
+ x=1 y=17 id=4  hop=4  
+
+------------------- Neighbours of j=13 hop=4:------------------------
+ x=9 y=1 id=14  hop=3  
+ x=9 y=1 id=12  hop=5  
+ x=9 y=1 id=21  hop=5  
+ x=9 y=1 id=5  hop=3  
+
+------------------- Neighbours of j=14 hop=3:------------------------
+ x=17 y=25 id=15  hop=2  
+ x=17 y=25 id=13  hop=4  
+ x=17 y=25 id=22  hop=4  
+ x=17 y=25 id=6  hop=2  
+
+------------------- Neighbours of j=15 hop=2:------------------------
+ x=25 y=17 id=8  hop=1  
+ x=25 y=17 id=23  hop=3  
+ x=25 y=17 id=14  hop=3  
+ x=25 y=17 id=7  hop=1  
+
+------------------- Neighbours of j=16 hop=2:------------------------
+ x=25 y=17 id=17  hop=3  
+ x=25 y=17 id=24  hop=1  
+ x=25 y=17 id=23  hop=3  
+ x=25 y=17 id=8  hop=1  
+
+------------------- Neighbours of j=17 hop=3:------------------------
+ x=9 y=1 id=18  hop=4  
+ x=9 y=1 id=16  hop=2  
+ x=9 y=1 id=25  hop=2  
+ x=9 y=1 id=9  hop=2  
+
+------------------- Neighbours of j=18 hop=4:------------------------
+ x=25 y=25 id=19  hop=5  
+ x=25 y=25 id=17  hop=3  
+ x=25 y=25 id=26  hop=3  
+ x=25 y=25 id=10  hop=3  
+
+------------------- Neighbours of j=19 hop=5:------------------------
+ x=25 y=17 id=20  hop=6  
+ x=25 y=17 id=18  hop=4  
+ x=25 y=17 id=27  hop=4  
+ x=25 y=17 id=11  hop=4  
+
+------------------- Neighbours of j=20 hop=6:------------------------
+ x=25 y=25 id=21  hop=5  
+ x=25 y=25 id=19  hop=5  
+ x=25 y=25 id=28  hop=5  
+ x=25 y=25 id=12  hop=5  
+
+------------------- Neighbours of j=21 hop=5:------------------------
+ x=17 y=9 id=22  hop=4  
+ x=17 y=9 id=20  hop=6  
+ x=17 y=9 id=29  hop=4  
+ x=17 y=9 id=13  hop=4  
+
+------------------- Neighbours of j=22 hop=4:------------------------
+ x=9 y=1 id=23  hop=3  
+ x=9 y=1 id=21  hop=5  
+ x=9 y=1 id=30  hop=3  
+ x=9 y=1 id=14  hop=3  
+
+------------------- Neighbours of j=23 hop=3:------------------------
+ x=9 y=25 id=16  hop=2  
+ x=9 y=25 id=31  hop=2  
+ x=9 y=25 id=22  hop=4  
+ x=9 y=25 id=15  hop=2  
+
+------------------- Neighbours of j=24 hop=1:------------------------
+ x=9 y=1 id=25  hop=2  
+ x=9 y=1 id=0  hop=0  
+ x=9 y=1 id=31  hop=2  
+ x=9 y=1 id=16  hop=2  
+
+------------------- Neighbours of j=25 hop=2:------------------------
+ x=25 y=1 id=26  hop=3  
+ x=25 y=1 id=1  hop=1  
+ x=25 y=1 id=24  hop=1  
+ x=25 y=1 id=17  hop=3  
+
+------------------- Neighbours of j=26 hop=3:------------------------
+ x=17 y=9 id=27  hop=4  
+ x=17 y=9 id=2  hop=2  
+ x=17 y=9 id=25  hop=2  
+ x=17 y=9 id=18  hop=4  
+
+------------------- Neighbours of j=27 hop=4:------------------------
+ x=9 y=25 id=28  hop=5  
+ x=9 y=25 id=3  hop=3  
+ x=9 y=25 id=26  hop=3  
+ x=9 y=25 id=19  hop=5  
+
+------------------- Neighbours of j=28 hop=5:------------------------
+ x=25 y=9 id=29  hop=4  
+ x=25 y=9 id=4  hop=4  
+ x=25 y=9 id=27  hop=4  
+ x=25 y=9 id=20  hop=6  
+
+------------------- Neighbours of j=29 hop=4:------------------------
+ x=9 y=17 id=30  hop=3  
+ x=9 y=17 id=5  hop=3  
+ x=9 y=17 id=28  hop=5  
+ x=9 y=17 id=21  hop=5  
+
+------------------- Neighbours of j=30 hop=3:------------------------
+ x=1 y=25 id=31  hop=2  
+ x=1 y=25 id=6  hop=2  
+ x=1 y=25 id=29  hop=4  
+ x=1 y=25 id=22  hop=4  
+
+------------------- Neighbours of j=31 hop=2:------------------------
+ x=17 y=17 id=24  hop=1  
+ x=17 y=17 id=7  hop=1  
+ x=17 y=17 id=30  hop=3  
+ x=17 y=17 id=23  hop=3  
